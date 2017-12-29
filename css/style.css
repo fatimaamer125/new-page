@@ -1,0 +1,31 @@
+h1 {
+	color: #371744 ;
+	text-align: center;
+	font-size: 50px;
+	font-family: system-ui ;
+}
+body {
+background-color: #e1f2ed;
+background-size: 2200px 1467px;
+}
+nav{
+	font-family:  monospace;
+	font-size: 15px;
+	color: #ffffff;
+	
+}
+p{
+	text-align: center;
+
+}
+section {
+	color: #d4d9e9;
+	font-family: monospace;
+	font-size: 12px;
+}
+
+footer {
+	font-size: 20px;
+	font-family: monospace; 
+	color: #ffffff;
+}
